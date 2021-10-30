@@ -6,7 +6,7 @@ All that being said, I have decided to release these notes to support fellow stu
 ## Subjects
 ### Programming
 * Data Structures (01:198:112)
-* Stetting up a Turtlebot3 Burger bot
+* Booing up the Burger Bot (self written tutorial)
 ### Mathematics
 * Calculus 3 / Multivariable Calculus Honors Section (01:640:251)
 * Calculus 4 / Differential Equations (01:640:244)
