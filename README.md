@@ -11,7 +11,7 @@ All that being said, I have decided to release these notes to support fellow stu
 * Principles of Electric Engineering 1 (14:332:221)
 * Principles of Electric Engineering 2 (14:332:222)
 ### Computer Science
-* Booing up the Burger Bot (self written tutorial)
+* Booting up the Burger Bot (self written tutorial)
 * Data Structures (01:198:112)
 * Introduction to Discrete Structures (01:198:205)
 * Principles of Information and Data Management (01:198:336)
