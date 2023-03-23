@@ -8,8 +8,8 @@ All that being said, I have decided to release these notes to support fellow stu
 * Computer Architecture and Assembly Language (14:332:331)
 * Digital Logic and Design (14:332:231)
 * Electronic Devices (14:332:361)
-* Principles of Electric Engineering 1 (14:332:221)
-* Principles of Electric Engineering 2 (14:332:222)
+* Principles of Electrical Engineering 1 (14:332:221)
+* Principles of Electrical Engineering 2 (14:332:222)
 ### Computer Science
 * Booting up the Burger Bot (self written tutorial)
 * Data Structures (01:198:112)
